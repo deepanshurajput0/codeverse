@@ -1,0 +1,25 @@
+.tag-sec img{
+    height: 100px;
+}
+
+.tag-sec{
+    display: flex;
+    align-items: center;
+    width: 60rem;
+}
+.tag-info{
+    margin-left: 50px;
+}
+
+.tag-info button{
+    padding: 6px;
+    background-color: orange;
+    border: 2px solid orange;
+    font-size: 15px;
+    cursor: pointer;
+}
+.tag-card{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}

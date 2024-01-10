@@ -1,0 +1,42 @@
+.code-pic img{
+    height: 500px;
+    margin-top: 60px;
+}
+
+.code-pic{
+    text-align: center;
+}
+.code-title{
+    text-align: center;
+    margin-top: 60px;
+}
+.code-info{
+    padding: 40px;
+}
+
+.tagx{
+    margin-top: 25px;
+}
+.tagx span{
+    margin-left: 10px;
+}
+.time span{
+    margin-left: 10px;
+}
+.creator span{
+    margin-left: 10px;
+}
+.tagx span{
+    background-color: gray;
+    padding: 3px;
+    margin-left: 10px;
+    border-radius: 5px;
+}
+
+.time{
+    margin-top: 20px;
+}
+
+.desc{
+    margin-top: 40px;
+}

@@ -1,0 +1,48 @@
+.addcode{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.addcode input{
+  height: 2rem;
+  width: 20rem;
+  padding-left: 10px;
+  background-color: #1B1B1B;
+  border-radius: 10px;
+  color: white;
+}
+.addcode textarea{
+    background-color: #1B1B1B;
+    color: white;
+    margin-top: 20px;
+    width: 18rem;
+    font-size: 15px;
+    padding-top: 20px;
+    padding-left: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+   
+}
+.addcode-img img{
+    height: 600px;
+}
+
+.addcode button{
+    height: 3rem;
+    width: 18rem;
+    background-color: #FF7F50;
+    color: white;
+    border-radius: 10px;
+    border: 2px solid #FF7F50;
+}
+
+.addcode button:hover{
+    background-color: orange;
+
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+}
